@@ -1,0 +1,6 @@
+* input -> janken("rock")
+* output -> rock against paper - you lose
+* input -> janken("nuclear")
+* output -> nuclear is not part of the game!
+* input -> janken(1)
+* input -> please input rock, paper, or scissors only
